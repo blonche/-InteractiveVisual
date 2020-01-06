@@ -1,9 +1,9 @@
 # 交互式数据可视化
 
-## 18级小组成员1GitHub链接
+## 18级小组成员1链接
 [成员1](http://aqiangwansui.pythonanywhere.com/wordcloud)
 
-## 18级小组成员2GitHub链接
+## 18级小组成员2链接
 [成员2](http://mm3337858677.pythonanywhere.com/salary)
 
 ## 17级小组成员3（我的）链接
